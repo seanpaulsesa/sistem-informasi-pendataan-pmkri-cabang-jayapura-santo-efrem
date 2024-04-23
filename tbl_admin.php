@@ -1,0 +1,1 @@
+<center><h1>Informasi Admin</h1></center>

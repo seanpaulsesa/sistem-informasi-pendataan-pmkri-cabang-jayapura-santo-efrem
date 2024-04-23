@@ -1,0 +1,1 @@
+<center><h1>Data Informasi Lainya</h1></center>
